@@ -83,8 +83,8 @@ nav li a{
 }
 .sec-description{
     color: #757575;
-    text-align: center;
     font-size: 18px;
+    text-align: center;
 }
 main{
     max-width: 1140px;
@@ -100,4 +100,42 @@ main{
 .info{
     margin-bottom:-10px ;
 }
-    
+.js{
+    border-radius: 10px;
+    padding: 30px 30px 70px 30px;
+    border: 0.0005px solid #181818;
+    background: #fff;
+}
+.react-js{
+    display: flex;
+    gap: 30px;
+   
+}
+#secdes{
+    padding:0px 150px ;
+}
+.bold{
+    font-size: 25px;
+    font-weight: 700;
+}
+.flexbox{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+
+}
+.bold1{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: -10px;
+}
+.para{
+    font-size: 22px;
+    font-weight: 400;
+}
+.sizediv{
+    width: 450px;
+}
+.info{
+    line-height: 22px;
+}
